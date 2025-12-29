@@ -1,0 +1,7 @@
+../Core/Src/motor.c:19:6:MOTOR_Init	32	static
+../Core/Src/motor.c:39:6:MOTOR_Forward	8	static
+../Core/Src/motor.c:52:6:MOTOR_Backward	8	static
+../Core/Src/motor.c:65:6:MOTOR_TurnRight	8	static
+../Core/Src/motor.c:78:6:MOTOR_TurnLeft	8	static
+../Core/Src/motor.c:91:6:MOTOR_Stop	8	static
+../Core/Src/motor.c:104:6:MOTOR_ControlWithPS2	24	static
